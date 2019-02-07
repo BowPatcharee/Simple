@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple</string>
+    <string name="app_btn_ok">ตกลง</string>
+    <string name="app_btn_cancel">ยกเลิก</string>
+
+    <string name="chocolate_syrup">chocolate_syrup</string>
+    <string name="sprinkles">sprinkles</string>
+    <string name="crushed_nuts">crushed_nuts</string>
+
+</resources>
